@@ -110,5 +110,9 @@ main a {
      .menu-list {
          font-size: 8px;
      }
+     #logo {
+         width: 50%;
+         height: 50%;
+     }
  }
 
