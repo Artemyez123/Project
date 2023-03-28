@@ -17,11 +17,11 @@ header {
 
 .menu-list {
     display: flex;
+    font-size: 16px;
     list-style-type: none;
     justify-content: space-around;
     margin-left: 650px;
     margin-top: 60px;
-    font-size: 16px;
 }
 
 .menu-list a {
@@ -98,5 +98,12 @@ main a {
         width 350px;
         font-size: 12px;
     }
+     header {
+          margin-top: 15px;
+          margin-left: 35px;
+     }
+     .menu-list {
+         font-size: 8px;
+     }
  }
 
