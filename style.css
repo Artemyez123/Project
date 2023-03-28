@@ -23,7 +23,7 @@ header {
     margin-left: 650px;
     margin-top: 60px;
 }
-#logo {
+.logo {
     width: 271px;
     height: 171px;
     background:url(img/logoss.jpg) top left no-repeat;
