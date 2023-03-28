@@ -103,16 +103,12 @@ main a {
         width 350px;
         font-size: 12px;
     }
-     header {
-          margin-top: 15px;
-          margin-left: 35px;
-     }
      .menu-list {
          font-size: 12px;
      }
      .logo {
-         width: 60%;
-         height: 60%;
+         width: 135px;
+         height: 85px;
          
      }
  }
