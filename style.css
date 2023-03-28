@@ -89,13 +89,13 @@ main a {
  }
  @media screen and (max-width: 1200px) {
     body {
-        width: 65%;
-        height: 65%;
+        background-size: 1200px 860px;
     }
     main p {
         font-size: 24px;
     }
  }
+
  @media screen and (max-width: 998px) {
     
  }
