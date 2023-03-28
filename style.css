@@ -99,13 +99,9 @@ main a {
         height: 60%;
     }
     main {
-        flex-wrap: wrap;
-        width 350px;
+        width: 350px;
         font-size: 12px;
     }
-     .menu-list {
-         font-size: 12px;
-     }
      .logo {
          width: 135px;
          height: 85px;
