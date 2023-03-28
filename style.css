@@ -13,6 +13,13 @@ header {
     margin-top: 30px;
     margin-left: 70px;
 }
+.logo {
+    width: 271px;
+    height: 171px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background:url(img/logoss.jpg) no-repeat;
+}
 
 
 .menu-list {
@@ -22,13 +29,6 @@ header {
     justify-content: space-around;
     margin-left: 650px;
     margin-top: 60px;
-}
-.logo {
-    width: 271px;
-    height: 171px;
-    margin-top: 30px;
-    margin-left: 70px;
-    background:url(img/logoss.jpg) no-repeat;
 }
 
 .menu-list a {
