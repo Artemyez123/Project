@@ -1,0 +1,106 @@
+body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: url('img/background.jpeg') no-repeat;
+    background-size: 1920px 1080px;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 70px;
+    justify-content: space-around;
+}
+
+.menu-list {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-left: 650px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+.menu-list a {
+    text-decoration: none;
+    color: #B8DDF2;
+}
+
+
+.menu-item {
+    list-style-type: none;
+    float: left;
+    margin: 0 40px;
+}
+
+main {
+    margin-top: 140px;
+    margin-left: 100px;
+    color: white;
+    width: 750px;
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: bold;
+}
+main a {
+    text-decoration: none;
+    color: white;
+}
+
+.button-check {
+    font-size: 15px;
+    padding: 20px 50px;
+    background: #A3A1FB;
+    border-radius: 15px 0 15px 0;
+    color: white;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+ 
+   main p {
+    text-transform: uppercase;
+   background-image: linear-gradient(
+     -225deg,
+     #feffff 0%,
+     #70cde4 29%,
+     #ffffff 67%,
+     #92f3e6 100%
+   );
+   background-size: auto auto;
+   background-clip: border-box;
+   background-size: 200% auto;
+   color: #fff;
+   background-clip: text;
+   text-fill-color: transparent;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: textclip 3s linear infinite;
+   display: inline-block;
+       font-size: 100%;
+ }
+ 
+ @keyframes textclip {
+   to {
+     background-position: 100% center;
+   }
+ }
+ @media screen and (max-width: 1200px) {
+    body {
+        background-size: 1200px 860px;
+    }
+    main p {
+        font-size: 20px;
+    }
+ }
+ @media screen and (max-width: 998px) {
+    
+ }
+ @media screen and (max-width: 768px) {
+    
+ }
+ @media screen and (max-width: 576px) {
+    
+ }
