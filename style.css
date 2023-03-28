@@ -26,7 +26,9 @@ header {
 .logo {
     width: 271px;
     height: 171px;
-    background:url(img/logoss.jpg) top left no-repeat;
+    margin-top: 30px;
+    margin-left: 70px;
+    background:url(img/logoss.jpg) no-repeat;
 }
 
 .menu-list a {
