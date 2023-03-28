@@ -94,18 +94,9 @@ main a {
         height: 60%;
     }
     main {
-        width 60%;
-     }
-    main p {
+        flex-wrap: wrap;
+        width 350px;
         font-size: 12px;
     }
  }
- @media screen and (max-width: 998px) {
-    
- }
- @media screen and (max-width: 768px) {
-    
- }
- @media screen and (max-width: 576px) {
-    
- }
+
