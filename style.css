@@ -87,4 +87,12 @@ main a {
      background-position: 100% center;
    }
  }
+@media screen and (max-width: 1200px) {
+    body {
+        width: 65%;
+        height: 65%;
+    }
+    main p {
+        font-size: 24px;
+    }
  
