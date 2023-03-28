@@ -13,13 +13,8 @@ header {
     margin-top: 30px;
     margin-left: 70px;
 }
-header a {
-    margin-top: 30px;
-    margin-left: 70px;
-}
-nav {
-    justify-content: space-around;
-}
+
+
 .menu-list {
     display: flex;
     font-size: 16px;
@@ -27,6 +22,11 @@ nav {
     justify-content: space-around;
     margin-left: 650px;
     margin-top: 60px;
+}
+#logo {
+    width: 271px;
+    height: 171px;
+    background:url(img/logoss.jpg) top left no-repeat;
 }
 
 .menu-list a {
